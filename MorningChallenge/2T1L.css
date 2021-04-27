@@ -1,0 +1,41 @@
+.h1-color {
+    color: lightgreen;
+    text-align: center
+}
+
+.h3-color {
+    color: blue;
+}
+
+.p-color {
+    color: red;
+}
+
+.border-style {
+    border-style: solid;
+    border-width: thick;
+    border-radius: 25px;
+    background-color: gray;
+    text-align: center;
+}
+
+.border-style2 {
+    border-style: solid;
+    border-width: thick;
+    border-radius: 25px;
+    background-color: lightgray;
+    text-align: center;
+    margin: 15px;
+}
+
+.flexcontainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-lie {
+    height: 30rem;
+    position: relative;
+    top: 50px;
+    left: 250px;
+}
